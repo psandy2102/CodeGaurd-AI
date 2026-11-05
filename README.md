@@ -7,7 +7,7 @@ security risks, and code-quality issues while keeping source code, embeddings,
 analysis records, and model inference in the locally operated environment.
 
 AI findings are advisory. Human reviewers remain accountable for code,
-security, and merge decisions.
+security, and merge decisions....
 
 ## Product goals
 
